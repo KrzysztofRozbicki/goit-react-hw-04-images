@@ -1,9 +1,9 @@
 {
-  "name": "goit-react-hw-03-image-finder",
+  "name": "goit-react-hw-04-images",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://KrzysztofRozbicki.github.io/goit-react-hw-03-image-finder",
+  "homepage": "https://KrzysztofRozbicki.github.io/goit-react-hw-04-images",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
